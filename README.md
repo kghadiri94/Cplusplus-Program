@@ -14,3 +14,12 @@ Definitely working with two different languages was something I had to get used 
 
 #What skills from this project will be particularly transferable to other projects and/or course work?
 Definitely working with multiple languages in a single project is something that will be transferable to other projects in the future.
+
+#How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+Some ways to interpret user needs is to check the product yourself and see what you think it could use. You could also use resources like surverys. Creating user stories allows you to understand what the consumer is looking for in a product and allows you to determine if this is what you would like to add in your product.
+
+#How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+In the future being able to adapt on the fly through agile processes is key. Also seeing the chain of command and good communication will help in the future.
+
+#What does it mean to be a good team member in software development?
+Communicate and ask for help if you are stuck. Also doing your part and not trying to step on someone elses toes. Offering help when asked is also a great thing.
